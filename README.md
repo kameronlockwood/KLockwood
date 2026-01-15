@@ -1,4 +1,4 @@
-# Hi, I'm Kameron Lockwood
+# Hi, I'm Kameron Lockwood!
 I'm a currently a 1st-year Computer Science major at Wright State University.
 
 # Projects
